@@ -12,3 +12,7 @@ GitHub_Leptons_DecayingL_VariableDelta_KlenNishina_EnDepRelease:
 - the rate of energy-loss takes into account the KN corrections at high energies solving, according to the approximation described in "Schlickeiser&Ruppel, New Journal of Physics 12 (2010) 033044"
 - the time of the injection depends on the CR-energy -- as high-energy particles can escape faster from the SN shock -- in a customizable sophisticated way
 - the propagated spectra are plotted for different ages of the source.
+
+For any questions regarding the code, please feel free to email me: ottaviofornieri@yahoo.it
+Please, cite https://zenodo.org/badge/latestdoi/289985494 if you intend to use this code in your work.
+
